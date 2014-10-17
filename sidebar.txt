@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uro:home|Door43 (uro)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uro|d43-uro repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uro/archive/master.zip|d43-uro.zip]]
+
+**Recent Changes**
+{{changes>ns = uro}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uro|Ethnologue data]]
+
